@@ -20,6 +20,8 @@ class MainActivity : AppCompatActivity() {
             Analytics::class.java, Crashes::class.java
         )
 
+
+
         AppCenter.start(application, "{Your App Secret}", Push::class.java)
     }
 }

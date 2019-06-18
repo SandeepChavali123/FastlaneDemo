@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "424674360126",
+    "firebase_url": "https://demoapp-2a446.firebaseio.com",
+    "project_id": "demoapp-2a446",
+    "storage_bucket": "demoapp-2a446.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424674360126:android:b7a206794e272678",
+        "android_client_info": {
+          "package_name": "com.example.fastlnedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424674360126-dm33v0l03906o0v81ob8li4hsetnnus3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0QCoChQiuxUT47Kmrk84kcFRg4E0ge-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424674360126-dm33v0l03906o0v81ob8li4hsetnnus3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

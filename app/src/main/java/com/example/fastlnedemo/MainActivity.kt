@@ -22,6 +22,8 @@ class MainActivity : AppCompatActivity() {
 
 
 
+
+
         AppCenter.start(application, "{Your App Secret}", Push::class.java)
     }
 }
